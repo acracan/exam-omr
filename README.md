@@ -1,0 +1,5 @@
+# exam-omr
+Optical marker recognition based on the flow described in [1] implemented in python 3 OpenCV.
+
+[1] R. Patel, S. Sanghavi, D. Gupta and M. S. Raval, "CheckIt - A low cost mobile OMR system," TENCON 2015 - 2015 IEEE Region 10 Conference, Macao, 2015, pp. 1-5.
+doi: 10.1109/TENCON.2015.7372983
