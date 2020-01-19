@@ -1,5 +1,7 @@
-__pycache__/*
+**/__pycache__
+./
 literature/*
 *.pdf
 .*
+**/*.py[cod]
 !/.gitignore
